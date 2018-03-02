@@ -9,4 +9,4 @@ var newName = 'Marian';
  if (allNames.indexOf(newName) === -1) {
  	console.log('true');
  }
- var allNames = allNames.push('Marian');
+ var allNames = allNames.push(newName);
